@@ -33,10 +33,13 @@ notebooks/Kapitel_01_Einfuehrung_R.ipynb
 
 Dieses Tutorium richtet sich an Studierende der:
 
-- Sozialwissenschaften
 - Politikwissenschaft
+- Sozialwissenschaften
 - Statistik Anfänger
 
 ## Autor
 
-Dein Name
+Jesisca Jähne
+
+## Lizenz
+CC-BY
